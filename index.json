@@ -1,10 +1,6 @@
 [
   {
-    "name": "Purrpaws",
-    "species" : "cat",
-    "foods": {
-      "likes": ["mice"],
-      "dislikes": ["cookies"]
-    }
+    "content": "Sleepwalker is the community for everyone who wishes to show, compelete and improve his/her talent. We aim tocover all the possible fields and areas of indivisual interest. As we are still growing, we might not have community on the unique talent you possess. Thus feel free to write us and we would try hard to create that community for you ",
+    "title" : "How",
   }
 ]
